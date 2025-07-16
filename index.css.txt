@@ -1,0 +1,51 @@
+body{
+    margin: 0px;
+}
+.total-container{
+    background-image: url("https://t4.ftcdn.net/jpg/11/02/16/95/360_F_1102169510_cyCxZZ1r9936rQY12tQgKHM24j6hnBlc.jpg");
+    background-size: cover;
+    height: 100vh;
+}
+.heading-container{
+    background-color: #ffffff;
+    border-radius: 50px;
+    height: 40px;
+    width: 600px;
+    margin-top: 40px;
+}
+.heading1{
+    color: black;
+    font-size: 20px;
+    font-family: "Roboto";
+    font-weight: bold;
+    text-align: center;
+}
+.container1{
+display: flex;
+flex-direction: row;
+justify-content: space-between;
+align-items: center;
+padding: 20px;
+}
+.image1{
+    height: 250px;
+    width: 600px;
+}
+.image2{
+    height: 150px;
+    width: 150px;
+    border-radius: 10px; 
+}
+.image1-card{
+    background-color: aliceblue;
+    height: 50vh;
+    width: 40vw;
+    margin: 50px;
+    border-radius: 30px;
+}
+
+.description{
+    color: black;
+    font-size: 20px;
+    font-weight: bold;
+}

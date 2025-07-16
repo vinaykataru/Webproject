@@ -1,0 +1,23 @@
+<Doctype <!DOCTYPE html>
+<html>
+    <head>
+        <link rel="stylesheet" href="index.css">
+    </head>
+    <body>
+<div class="total-container">
+    <div class="heading-container">
+    <h1 class="heading1">PortFolio</h1>
+    </div>
+    <div class="container1">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSD8j774O0ujbTqYX2-A-UICjiYP7rcsQ8lAg&s" class="image3">
+     <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4eBaLch5sUuKiSrU5sZtLhHe2-BuVVvBv2A&s" class="image2">
+     </div>
+    <div class="image1-card">
+        <div class="second-container">
+            <h1 class="description">Name: HariVinay</h1>
+            <h1 class="description">Full Stack Developer</h1>
+        </div>
+    </div>
+    </div>
+    </body>
+</html>
